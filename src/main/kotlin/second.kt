@@ -1,12 +1,15 @@
 //READ LINE
-//fun main(){
-//    val userInput = readLine()
-// //   println("Hekko ! $userInput")
-////    println(userInput ?.toUpperCase())
-//    if(userInput != null)
-//        println(userInput.toInt() - 5) // input a number for subtraction and typecasting
-//}
-//
+
+fun main(){
+    val userInput = readLine()
+    println("Hekko ! $userInput")
+    println(userInput ?.toUpperCase())
+    if(userInput != null)
+        println(userInput.toInt() - 5)
+
+        println("tgggyuguyyuiii") // input a number for subtraction and typecastinguyuyuygyuvyygv
+}
+
 //hw
 //fun main(){
 //    println("PLease enter your age : ")
